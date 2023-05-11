@@ -1,5 +1,5 @@
 - 👋 Salve, sono @Loreehh
-- 👀 Sono interessatoa persone che vogliano collaborare per nuovi progetti ambiziosi
+- 👀 Sono interessato a persone che vogliano collaborare per nuovi progetti ambiziosi
 - 🌱 Sto imparando HTML, CSS, Java, JavaScript ...
 - 💞️ Sto collaborando con:
 - AresMC x Supporter and Dev
