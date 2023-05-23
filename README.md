@@ -1,12 +1,23 @@
-- 👋 Salve, sono @Loreehh
-- 👀 Sono interessato a collaborare con persone che vogliano contribuire a creare nuovi progetti ambiziosi
-- 🌱 Sto imparando HTML, CSS, Java, JavaScript ...
-- 💞️ Sto collaborando con:
+👋 Salve, sono @Loreehh
+
+👀 Sono interessato a collaborare con persone che vogliano contribuire a creare nuovi progetti ambiziosi
+
+🌱 Linguaggi che so utilizzare:
+-HTML
+-CSS
+-JavaScript
+
+💞️ Sto collaborando con:
 - AresMC x Supporter and Dev
 - My School (Private) x Dev
-- 📫 Contattami:
+
+📫 Contattami:
 - Telegram: @looreexx
-- Discord: Lor3xx_#6215  ...
+- Discord: Lor3xx_#6215  
+
+
+📚 My Bio:
+- https://t.me/loor3xx
 
 <!---
 Loreehh/ReadMe
