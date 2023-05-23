@@ -1,6 +1,6 @@
 👋 Salve, sono @Loreehh
 
-👀 Sono interessato a collaborare con persone che vogliano contribuire a creare nuovi progetti ambiziosi
+👀 Sono interessato a collaborare con persone che vogliano contribuire a creare nuovi progetti ambiziosi per Minecraft e aziende
 
 🌱 Linguaggi che so utilizzare:
 -HTML
