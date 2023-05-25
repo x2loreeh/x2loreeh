@@ -3,9 +3,7 @@
 👀 Sono interessato a collaborare con persone che vogliano contribuire a creare nuovi progetti ambiziosi per Minecraft e aziende
 
 🌱 Linguaggi che so utilizzare:
--HTML
--CSS
--JavaScript
+HTML, CSS, JavaScript
 
 💞️ Sto collaborando con:
 - AresMC x Supporter and Dev
