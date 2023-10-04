@@ -16,6 +16,10 @@ HTML, CSS, JavaScript
   <img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=white&style=for-the-badg" alt="YT BADGE">
 </a>
 
+<a href="https://www.dsc.gg/loreehsupport">
+  <img src"https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badg" alt="DS BADGE">
+</a>
+
 </div>
 <div class="badge" align="center">
   
