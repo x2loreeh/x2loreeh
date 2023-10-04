@@ -9,18 +9,17 @@ HTML, CSS, JavaScript
 - AresMC x Supporter and Dev
 - My School (Private) x Dev
 
-📫 Contattami:
-- Telegram: @looreexx
-- Discord: Lor3xx_#6215  
-
-
-📚 My Bio:
-- https://t.me/loor3xx
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+📫 Social:
+<div class="social">
+<a href="youtube.com">
+  <img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=white&style=for-the-badg" alt="YT BADGE">
+</a>
 </div>
+<div class="badge">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 
 <!---
 Loreehh/ReadMe
