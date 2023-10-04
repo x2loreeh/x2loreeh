@@ -11,7 +11,7 @@ HTML, CSS, JavaScript
 
 📫 Social:
 
-
+<div class="badges" align="center">
 <a href="youtube.com">
   <img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=white&style=for-the-badg" alt="YT BADGE">
 </a>
@@ -23,6 +23,8 @@ HTML, CSS, JavaScript
 <a href="https://dsc.gg/loreehsupport">
   <img src="https://img.shields.io/badge/discord-darkcyan?logo=discord&logoColor=white&style=for-the-badg" alt="DS BADGE">
 </a>
+
+</div>
 
 <div class="badge" align="center">
   
