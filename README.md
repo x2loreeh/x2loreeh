@@ -16,7 +16,7 @@ HTML, CSS, JavaScript
 </a>
 </div>
 <div class="badge">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=loreeh_&style=flat-square&color=blue" alt=""/>
 </div>
 
 
