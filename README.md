@@ -16,8 +16,12 @@ HTML, CSS, JavaScript
   <img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=white&style=for-the-badg" alt="YT BADGE">
 </a>
 
-<a href="https://www.dsc.gg/loreehsupport">
-  <img src"https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="DS BADGE">
+<a href="https://github.com/Loreehh">
+  <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badg" alt="GITHUB BADGE">
+</a>
+
+<a href="https://dsc.gg/loreehsupport">
+  <img src="https://img.shields.io/badge/discord-darkcyan?logo=discord&logoColor=white&style=for-the-badg" alt="DS BADGE">
 </a>
 
 <div class="badge" align="center">
