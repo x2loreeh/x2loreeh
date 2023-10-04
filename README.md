@@ -10,9 +10,14 @@ HTML, CSS, JavaScript
 - My School (Private) x Dev
 
 
+<div class="social text" align="center">
+  
+  📫 Social:
+
+</div>
 
 <div class="badges" align="center">
-  📫 Social:
+  
 <a href="youtube.com">
   <img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=white&style=for-the-badg" alt="YT BADGE">
 </a>
