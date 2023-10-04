@@ -9,9 +9,10 @@ HTML, CSS, JavaScript
 - AresMC x Supporter and Dev
 - My School (Private) x Dev
 
-📫 Social:
+
 
 <div class="badges" align="center">
+  📫 Social:
 <a href="youtube.com">
   <img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=white&style=for-the-badg" alt="YT BADGE">
 </a>
