@@ -11,6 +11,9 @@ HTML, CSS, JavaScript
 
 📫 Social:
 <div class="social">
+  <style>
+    align="center"
+  </style>
 <a href="youtube.com">
   <img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=white&style=for-the-badg" alt="YT BADGE">
 </a>
