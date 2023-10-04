@@ -10,17 +10,16 @@ HTML, CSS, JavaScript
 - My School (Private) x Dev
 
 📫 Social:
-<div class="social" align="center">
+
 
 <a href="youtube.com">
   <img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=white&style=for-the-badg" alt="YT BADGE">
 </a>
 
 <a href="https://www.dsc.gg/loreehsupport">
-  <img src"https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badg" alt="DS BADGE">
+  <img src"https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="DS BADGE">
 </a>
 
-</div>
 <div class="badge" align="center">
   
   <img src="https://komarev.com/ghpvc/?username=Loreehh&style=flat-square&color=blue" alt=""/>
