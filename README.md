@@ -1,12 +1,9 @@
 👋 Salve, sono @Loreehh
 
-👀 Sono interessato a collaborare con persone che vogliano contribuire a creare nuovi progetti ambiziosi per Minecraft e aziende
+HTML x CSS Developer 
+Jr.Java Dev
 
-🌱 Linguaggi che so utilizzare:
-HTML, CSS, Java(Learning) 
-
-💞️ Sto collaborando con:
-- Astralic x Developer
+Working for Skyproject and DreamServices
 
 
 <div class="social text" align="center">
