@@ -26,7 +26,7 @@ Working for Skyproject and DreamServices
   <img src="https://img.shields.io/badge/discord-darkcyan?logo=discord&logoColor=white&style=for-the-badg" alt="DS BADGE">
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreeh_&size_weight=0.5&count_weight=0.5 " 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreeh_&size_weight=0.5&count_weight=0.5 "></a>
 
 </div>
 
