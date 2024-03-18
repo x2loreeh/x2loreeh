@@ -12,6 +12,8 @@ Working for Skyproject and DreamServices
 
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreehh" alt="LangSTATS"> 
+
 <div class="badges" align="center">
   
 <a href="youtube.com">
