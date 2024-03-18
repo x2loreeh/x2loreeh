@@ -12,7 +12,11 @@ Working for Skyproject and DreamServices
 
 </div>
 
+<div class="stats" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreehh" alt="LangSTATS"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Loreehh" alt="ProfileSTATS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Loreehh&repo=Loreehh" alt="ReadME Repo">
+</div>
 
 <div class="badges" align="center">
   
