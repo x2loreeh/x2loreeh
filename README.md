@@ -1,9 +1,7 @@
-👋 Salve, sono @Loreehh
 
-HTML x CSS Developer 
-Jr.Java Dev
 
-Working for Skyproject and DreamServices
+# Loreeh - Jr. Java, JS & PY Developer
+
 
 
 <div class="stats" align="center">
