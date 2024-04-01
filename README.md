@@ -1,6 +1,7 @@
 
 
-# Loreeh - Jr. Java, JS & PY Developer
+# Loreeh
+Hi, i am Loreeh a Developer from Italy🍕
 
 
 ## Languages 
