@@ -16,6 +16,7 @@ Hi, i am Loreeh a Developer from Italy🍕
 
 ![EclipseIDE](https://img.shields.io/badge/Eclipse%20IDE-%23323330.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=%#31A8FF)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23323330.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=%#31A8FF)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## STATS
 
