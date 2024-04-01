@@ -18,7 +18,7 @@ Hi, i am Loreeh a Developer from Italy🍕
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23323330.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=%#31A8FF)
 
 <div class="stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreehh" alt="LangSTATS"> 
+<img src="https://github-readme-stats.vercel.app/api?username=loreeh&show_icons=true&theme=cobalt&locale=it" alt="ProfileSTATS"> 
 </div>
 
 
