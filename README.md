@@ -1,7 +1,7 @@
 
 
-# Loreeh
-Hi, i am Loreeh a Developer from Italy🍕
+# x2loreeh
+Hi, i am x2loreeh a Developer from Italy🍕
 
 
 ## Languages 
@@ -29,7 +29,7 @@ Hi, i am Loreeh a Developer from Italy🍕
 
 
 <div class="stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=loreehh&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="ProfileSTATS"> 
+<img src="https://github-readme-stats.vercel.app/api?username=x2loreeh&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="ProfileSTATS"> 
 </div>
 
 
