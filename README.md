@@ -33,11 +33,11 @@ Hi, i am x2loreeh a Developer from Italy🍕
 </div>
 
 <div class="stats" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=x2loreeh&theme=vue-dark&hide_border=true" alt="streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=x2loreeh&theme=dark&hide_border=true" alt="streak">
 </div>
 
 <div class="stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x2loreeh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="ProfileLANgs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x2loreeh&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ProfileLANgs">
 </div>
 
 
