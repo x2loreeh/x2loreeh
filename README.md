@@ -29,7 +29,10 @@ Hi, i am x2loreeh a Developer from Italy🍕
 
 
 <div class="stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=x2loreeh&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="ProfileSTATS"> 
+<img src="https://github-readme-stats.vercel.app/api?username=x2loreeh&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="ProfileSTATS" style="margin-right: 25px;"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=x2loreeh&theme=vue-dark&hide_border=true" alt="streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x2loreeh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="ProfileLANgs">
+
 </div>
 
 
