@@ -6,9 +6,6 @@ Hi, i am x2loreeh a Developer from Italy🍕
 
 ## Languages 
 
-
-![HTML](https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=HTML5&logoColor=%#31A8FF)
-![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%#BLUE)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,10 +27,6 @@ Hi, i am x2loreeh a Developer from Italy🍕
 
 <div class="stats" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=x2loreeh&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="ProfileSTATS" style="margin-right: 25px;"> 
-</div>
-
-<div class="stats" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=x2loreeh&theme=dark&hide_border=true" alt="streak">
 </div>
 
 <div class="stats" align="center">
